@@ -1,1 +1,203 @@
-# Andi27
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <!-- <meta name="viewport" content="width=device-width, initial-scale=1.0"> -->
+    <link rel="stylesheet" href="//https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="stylesheet.css">
+    <!-- <link rel="stylesheet" href="responsive.css"> -->
+    <title>Web Project J01 DTS PROA 2021</title>
+  </head>
+  <body>
+    <header>          
+      <div class="container"
+        <div class="header-left">
+        <img class="logo" src="logo-white_1.png">
+      </div>
+      <span class="menu-icon">
+        <img src="menu-icon.png">
+      </span>
+      <div class="header-right">
+        <a href="#" class="signup">Sign Up</a>
+        <a href="#" class="signin">Sign in</a>
+      </div>
+    </div>
+    </header>
+    <div class="top-wrapper">
+      <div class="container">
+        <h1>PRODUK LOKAL KUALITAS TERBAIK</h1>
+        <h1>HANYA ADA DISINI</h1>
+        <p>Dapatkan keuntungan menarik selama berbelanja dengan mendaftar menjadi member kami</p>
+      </div>
+    </div>
+    <div class="slider">
+      <figure>
+        <div class="slide">
+          <img src="landingpage1.jpg">
+        </div>
+        <div class="slide">
+          <img src="landingpage2.jpg">
+        </div>
+        <div class="slide">
+          <img src="landingpage3.jpg">
+        </div>
+      </figure>
+    </div>
+    <div class="advers">
+      <div class="container">
+        <div class="ads-shop">
+          <a href="#" class="ads-banner">
+          <img src="banner-ads.png">
+          </a>
+        </div>
+          <div class="heading">
+            <h2>NEW ARRIVAL</h2>
+          </div>
+          <div class="katalog-wrapper">
+            <div class="katalog">
+              <div class="product-icon">
+                <img src="tes-1.png">
+                <p>Favorite</p>
+              </div>
+              <p class="txt-contents">Grace Overcoat Black</p>
+              <p class="price">Rp. 210.000</p>
+            </div>
+            <div class="katalog">
+              <div class="product-icon">
+                <img src="tes-2.png">
+                <p>Favorite</p>
+              </div>
+              <p class="txt-contents">Men's Watch Silver</p>
+              <p class="price">Rp. 150.000</p>
+            </div> 
+            <div class="katalog"> 
+              <div class="product-icon">
+                <img src="tes-3.png">
+                <p>Favorite</p> 
+              </div>
+              <p class="txt-contents">Loyn Bag Mareni Blue</p>
+              <p class="price">Rp. 200.000</p>
+            </div> 
+            <div class="katalog">
+              <div class="product-icon">
+                <img src="tes-4.png">
+                <p>Favorite</p>
+              </div>
+              <p class="txt-contents">Wooden Men's Watch</p>
+              <p class="price">Rp. 150.000</p>
+            </div>
+            <div class="katalog">
+              <div class="product-icon">
+                <img src="tes-5.png">
+                <p>Favorite</p>
+              </div>
+              <p class="txt-contents">Polkadot Women Coat</p>
+              <p class="price">Rp. 180.000</p>
+            </div> 
+            <div class="katalog">
+              <div class="product-icon">
+                <img src="tes-6.png">
+                <p>Favorite</p>
+              </div>
+              <p class="txt-contents">Jeans Jacket Men</p>
+              <p class="price">Rp. 195.000</p>
+            </div> 
+            <div class="katalog">
+              <div class="product-icon">
+                <img src="tes-7.png">
+                <p>Favorite</p>
+              </div>
+              <p class="txt-contents">Loyn Bag Pink Rose</p>
+              <p class="price">Rp. 200.000</p>
+            </div> 
+            <div class="katalog">
+              <div class="product-icon">
+                <img src="tes-8.png">
+                <p>Favorite</p>
+              </div>
+              <p class="txt-contents">Brown Oversize Coat Men</p>
+              <p class="price">Rp. 220.000</p>
+            </div> 
+          </div>
+          <button class="button" style="vertical-align:middle"><span>More </span></button>
+      </div>
+    </div>
+    <div class="profile-founder">
+      <div class="container">
+        <div class="heading">
+          <h3>JONES FOUNDER PROFILE</h3>
+        </div>
+        <div class="profiles"></div>
+          <div class="profile">
+            <div class="profile-icon">
+              <img src="Andira_11.jpg" alt="" class="foto">
+              <p>AGUS ANDIRA</p>
+              <p>BENGKALIS-RIAU</p>        
+            </div>
+            <p class="text-contents">"LIFE IS AN ADVENTURE. SO, DO AND GIVE THE BEST FOR ALL WHAT YOU DO"</p>
+          </div>
+          <div class="profile">
+            <div class="profile-icon">
+              <img src="rendy_2.jpg" alt="" class="foto">
+              <p>RENDY NURHUDA</p>
+              <p>JAKARTA</p>        
+            </div>
+            <p class="text-contents">"KEBERHASILAN SELALU DI IKUTI OLEH KEMAUAN DAN KERJA KERAS YANG KUAT"</p>
+          </div>
+          <div class="profile">
+            <div class="profile-icon">
+              <img src="Krisnanda.jpg" alt="" class="foto">
+              <p>KRISNANDA</p>
+              <p>YOGYAKARTA</p>        
+            </div>
+            <p class="text-contents">"DOOR HET GEVEN WORDT MEN RIJK"</p>
+          </div>
+          <div class="profile">
+            <div class="profile-icon">
+              <img src="Andi Junudu.jpg" alt="" class="foto">
+              <p>ANDI JUNUDU</p>
+              <p>JAMBI</p>        
+            </div>
+            <p class="text-contents">"HIDUP HARUS PANDAI MERASA AGAR TIDAK MERASA PANDAI"</p>
+          </div>
+          <div class="profile">
+            <div class="profile-icon">
+              <img src="Nungky Indah.jpg" alt="" class="foto">
+              <p>INDAH NUNGKY KUSUMA W</p>
+              <p>SIDOARJO-JAWA TIMUR</p>        
+            </div>
+            <p class="text-contents">"JANGAN TAKUT JADI BERBEDA DAN LAKUKAN APA YANG KAMU INGINKAN"</p>
+          </div>
+          <div class="clear">
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="message-wrapper">
+      <div class="container">
+        <div class="heading">
+          <h4>DAPATKAN PRODUK TERBAIK ANDA HANYA DI SINI</h4>
+          <h5>PRODUK DAN KUALITAS TERBAIK DENGAN HARGA TERJANGKAU</h5>
+        </div>
+        <span class="btn message">Yuk Belanja Yuk</span>
+      </div>
+    </div>
+    <footer>
+      <div class="footer-logo">
+        <img src="logo-white_1.png">
+      </div>
+      <div class="footer-list">
+        <ul>
+          <div class="list">
+          <li>Tentang</li>
+          <li>Hubungi Kami</li>
+          <li>Ikuti Kami</li>
+        </div>
+        </ul>
+      </div>
+      <div class="footer-pattern">
+        <img src="logo-white_1.png">
+      </div>
+    </footer>
+  </body>
+</html>
